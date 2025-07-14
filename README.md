@@ -1,31 +1,32 @@
-Little Genius Play School Website 
+# 🎓 Little Genius Play School Website
 
-Overview
-Official website for Little Genius Play School, showcasing our educational programs, events, and contact information. Designed to provide parents with essential information about our play school.
+## 📌 Overview
+A one-page responsive website for **Little Genius Play School**, showcasing our educational programs, event highlights, contact details, and more. This site is designed to provide parents with all essential information in a clean and engaging layout.
 
-Features
-Responsive design for all devices
+---
 
-Interactive navigation menu
+## 🌟 Features
 
-About section with school philosophy
+- ✅ Responsive design for all devices
+- 🔗 Interactive navigation menu
+- 🧠 About section with school philosophy
+- 🕘 Class schedule with in/out timings
+- 🎉 Event gallery with 12+ activities
+- 📞 Contact section with icons
+- 👶 Child-friendly, accessible interface
 
-Class schedule with timings
+---
 
-Event gallery with 12+ activities
+## 🛠️ Technologies Used
 
-Contact information section
+- HTML5
+- CSS3
+- Flexbox and Grid layout systems
 
-Child-friendly interface
+---
 
-Technologies Used
-HTML5
+## 📁 File Structure
 
-CSS3
-
-Flexbox/Grid layouts
-
-File Structure
 school-website/
 ├── index.html
 ├── style.css
@@ -33,44 +34,50 @@ school-website/
 ├── img.jpg
 ├── README.md
 └── events/
-    ├── annualday.jpg
-    ├── craft_and_workshop.jpg
-    ├── independence day.jpg
-    └── ... (11 more event images)
+├── annualday.jpg
+├── craft_and_workshop.jpg
+├── independence day.jpg
+└── ... (11 more event images)
 
 
-How to Use
-Download all files
 
-Open index.html in any web browser
+---
 
-Navigate using the top menu
+## 🚀 How to Use
 
-Customization
-Update these files to customize:
+1. **Download all files**
+2. **Open** `index.html` in your web browser
+3. **Navigate** the website using the top menu
 
-index.html - Modify content/text
+---
 
-style.css - Change colors, fonts, layout
+## 🎨 Customization
 
-/events/ folder - Replace with your own event images
+You can update content easily:
 
-logo.jpg - Replace with your school logo
+- `index.html` – Modify content or text
+- `style.css` – Change fonts, colors, or layout
+- `/events/` – Replace event images with your own
+- `logo.jpg` – Replace with your school’s logo
 
+---
 
-Browser Support
-Compatible with:
+## 🌐 Browser Support
 
-Chrome
+Tested and compatible with:
 
-Firefox
+- Chrome
+- Firefox
+- Safari
+- Edge
 
-Safari
+---
 
-Edge
+## 📬 Contact
 
-Contact
-For website support:
+For feedback or support:
 
-Email: arunkumarak551100@gmail.com
+📧 **arunkumarak551100@gmail.com**
+
+---
 
